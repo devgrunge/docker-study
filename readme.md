@@ -1,4 +1,5 @@
-## Comands in terminal
+## Useful tips 
+Comands in terminal
 
 docker build . --> create the docker file
 
